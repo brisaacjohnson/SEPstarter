@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class DatabaseConfig {
 
-    private static final String USERNAME = "carter";
-    private static final String PASSWORD = "mVMxgxmew6TNSLXY";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
     private static final String CONN_STRING = "jdbc:mysql://localhost/sepstarterdb";
 
     // connection  method that connects us to the MySQL database
